@@ -2,6 +2,12 @@
 
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
+## :link: Link with me!
+<p align="center">
+  <a href="https://www.linkedin.com/in/anouk-dunuwille-67a713171/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+</p>
+
+  
 <!--
 **AnoukDunu/AnoukDunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
