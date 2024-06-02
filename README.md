@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Anouk+Dunuwille)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 <!--
