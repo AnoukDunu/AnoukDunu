@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1000&pause=2000&color=298EBB&background=000000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;QA+Automation+Engineer;(Almost)+IT+Project+Manager)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Software+Engineer+%7C+QA+Automation+Engineer)](https://git.io/typing-svg)
 
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
