@@ -3,7 +3,9 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
   
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<!--### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...-->
+
+### <img src="https://github.com/AnoukDunu/AnoukDunu/blob/main/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="50"> A little bit about me...
 
 ```javascript
 const anouk = {
