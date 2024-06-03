@@ -7,19 +7,21 @@
 
 ### <img src="https://github.com/AnoukDunu/AnoukDunu/blob/main/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="50"> A little bit about me...
 
-```javascript
-const anouk = {
-  nationality: "Sri Lankan",
-  residence: "Melbourne Australia",
-  education: {    
-                  degree1: "Bachelor's in Software Engineering | Curtin University Australia",
-                  degree2: "Master's in IT Project Management | RMIT University Australia".
-                },
- experience1: "Software Engineering Intern",
- experience2: "QA Automation Engineer (SDET)",
+```python
+class AnoukDunu:
 
- fun fact: "I have 9 names"
-}
+    def __init__(self):
+        self.name = "Anouk Dunuwille"
+        self.nationality = "Sri Lankan"
+        self.roles = ["Software Engineer", "QA Automation Engineer"]
+
+    def say_hi(self):
+        print("I am pretty new to this! Hope you like something I did!")
+        print("Fun fact, I have 9 names")
+
+
+me = SoftwareEngineer()
+me.say_hi
 ```
 
 <!--- 🔭 I’m currently working on nothing!
