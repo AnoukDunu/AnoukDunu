@@ -1,4 +1,4 @@
-### <img src="https://github.com/AnoukDunu/AnoukDunu/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+### <img src="https://github.com/AnoukDunu/AnoukDunu/blob/main/Anouk%20Dunuwille%20(1).gif" width="1000">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Software+Engineer+%7C+QA+Automation+Engineer)](https://git.io/typing-svg)
 
