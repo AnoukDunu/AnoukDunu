@@ -3,15 +3,27 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
   
-<!--
-**AnoukDunu/AnoukDunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on nothing!
+```javascript
+const anouk = {
+  nationality: "Sri Lankan",
+  residence: "Melbourne Australia",
+  education: {    
+                  degree1: "Bachelor's in Software Engineering | Curtin University Australia",
+                  degree2: "Master's in IT Project Management | RMIT University Australia".
+                },
+ experience1: "Software Engineering Intern",
+ experience2: "QA Automation Engineer (SDET)",
+
+ fun fact: "I have 9 names"
+}
+```
+
+<!--- 🔭 I’m currently working on nothing!
 - 🌱 I’m currently learning the MERN stack
 - 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: I have 9 names...
+- ⚡ Fun fact: I have 9 names... -->
 
 <!--## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
