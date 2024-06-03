@@ -1,3 +1,5 @@
+### <img src="https://github.com/AnoukDunu/AnoukDunu/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Software+Engineer+%7C+QA+Automation+Engineer)](https://git.io/typing-svg)
 
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
@@ -58,5 +60,5 @@ me.say_hi
 
 ## :link: Link with me!
 <p align="center">
-  <a href="https://www.linkedin.com/in/anouk-dunuwille-67a713171/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/anouk-dunuwille-67a713171/"><img src="https://github.com/AnoukDunu/AnoukDunu/blob/main/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100px" alt="linkedin"/></a>
 </p>
