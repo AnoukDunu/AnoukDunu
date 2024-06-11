@@ -1,6 +1,6 @@
 ### <img src="https://github.com/AnoukDunu/AnoukDunu/blob/main/Anouk%20Dunuwille%20(1).gif" width="1000">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Software+Developer+%7C+QA+Automation+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Software+Engineer+%7C+QA+Automation+Engineer)](https://git.io/typing-svg)
 
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
