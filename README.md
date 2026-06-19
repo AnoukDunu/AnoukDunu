@@ -15,8 +15,8 @@ class AnoukDunu:
     def __init__(self):
         self.name = "Anouk Dunuwille"
         self.where = "living in Australia"
-        self.currently = "finished my Master's Degree!"
-        self.roles = ["Software Developer", "Aspiring IT Project Manager & Data Engineer"]
+        self.currently = "Trying to get employed lol"
+        self.roles = ["Software Developer", "QA Automation Engineer", "Aspiring Data Engineer"]
 
     def say_hi(self):
         print("I am pretty new to this! Hope you like something I did!")
